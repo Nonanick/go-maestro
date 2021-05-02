@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/Nonanick/go-maestro/pipes"
-	"github.com/Nonanick/go-maestro/server/routes"
+	"github.com/Nonanick/go-maestro/routes"
 )
 
 type Maestro struct {
